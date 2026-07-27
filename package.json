@@ -4,11 +4,11 @@
   "description": "Responsive portfolio website",
   "main": "index.js",
   "scripts": {
-  "sass": "sass --watch scss:dist/css"
+    "sass": "sass --watch scss:dist/css"
   },
   "author": "Kaung Khant Ko Ko Gyi",
   "license": "MIT",
   "devDependencies": {
-  "sass": "^1.93.0"
+    "sass": "^1.102.0"
   }
 }
